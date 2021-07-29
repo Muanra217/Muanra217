@@ -2,7 +2,7 @@
 - 👀 I’m interested in web programming, animes, movies
 - 🌱 I’m currently learning Web developer/programming path
 - 💞️ I’m looking to collaborate on works
-- 📫 How to reach me @muanra217 (IG)
+- 📫 more about me: muanra217.github.io
 
 <!---
 Muanra217/Muanra217 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
