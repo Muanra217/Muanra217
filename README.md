@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Muanra217
+- 👋 Hi, I’m Muhamad Dian Rahendra
 - 👀 I’m interested in web programming, animes, movies
 - 🌱 I’m currently learning Web developer/programming path
 - 💞️ I’m looking to collaborate on works
