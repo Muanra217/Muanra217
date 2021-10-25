@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+MY+PROFILE!)](https://git.io/typing-svg)
 - 👋 Hi, I’m Muhamad Dian Rahendra
 - 👀 I’m interested in web programming, animes, movies
 - 🌱 I’m currently learning Web developer/programming path
