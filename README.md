@@ -12,7 +12,7 @@
 </p>
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=muanra217&theme=react-dark)](https://github.com/Muanra217)
+[![Muanra's github activity graph](https://activity-graph.herokuapp.com/graph?username=muanra217)](https://github.com/Muanra217)
 
 <!---
 Muanra217/Muanra217 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
