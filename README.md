@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+MY+PROFILE!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+MY+PROFILE!)](https://github.com/Muanra217)
 - 👋 Hi, I’m Muhamad Dian Rahendra
 - 👀 I’m interested in web programming, animes, movies
 - 🌱 I’m currently learning Web developer/programming path
@@ -12,6 +12,7 @@
 </a>
 </p>
 
+[![Muanra's github activity graph](https://activity-graph.herokuapp.com/graph?username=muanra217&theme=react-dark)](https://github.com/Muanra217)
 
 <!---
 Muanra217/Muanra217 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
