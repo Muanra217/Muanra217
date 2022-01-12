@@ -3,7 +3,7 @@
 - 👀 I’m interested in web programming, animes, movies
 - 🌱 I’m currently learning Web developer/programming path
 - 💞️ I’m looking to collaborate on works
-- 📫 [Portfolio](https://muanra217.github.io)
+- 📫 [Portfolio Site](https://muanra217.github.io)
 
 **Languages and Tools:**  
 
