@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+MY+PROFILE!+)](https://github.com/Muanra217) 
 - 👋 Hi, I’m Muhamad Dian Rahendra
-- 👀 I’m interested in web programming, animes, movies
+- 👀 I’m interested in web programming
 - 🌱 I’m currently learning Web developer/programming path
 - 💞️ I’m looking to collaborate on works
 - [Portfolio Site](https://muanra217.github.io)
