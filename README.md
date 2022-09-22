@@ -6,7 +6,7 @@
 - [Portfolio Site](https://muanra217.github.io)
 - [Gitlab](https://gitlab.com/Muanra217)
 
-**Languages and Tools:**  
+**Tools:**  
 
 <code><img width="3.5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img width="3.5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
